@@ -6,7 +6,7 @@ Para poder ver nuestra pagína web en el navegador, primero debemos de hacer los
 - Escribir en la consola (2 veces) ----> *cd proyecto2*
 - Nuestra consola debe indicarnos que estamos dentro de ***proyecto2/proyecto2/***
 - Luego, escribimos ***python manage.py runserver*** para inciar el servidor.
-- Por último debemos acceder a *http://127.0.0.1:8000/AppCoder/ *
+- Por último debemos acceder a http://127.0.0.1:8000/AppCoder/
 
 ## Inicio de la página
 
