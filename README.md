@@ -1,7 +1,6 @@
 # Tercera Pre-entrega Gallardo Ruben
 
 ##Inicio
-
 Para poder ver nuestra pagína web en el navegador, primero debemos de hacer los siguiente:
 
 - Escribir en la consola (2 veces) ----> *cd proyecto2*
