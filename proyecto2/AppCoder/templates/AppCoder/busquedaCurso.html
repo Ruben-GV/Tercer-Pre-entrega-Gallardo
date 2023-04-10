@@ -2,12 +2,14 @@
 
 {% load static %}
 
+
 {% block titulo %}
-    <h1>Tercer Pre-entrega Gallardo</h1>
+    <h1>Busca tu Curso!</h1>
 {% endblock %}
 
 {% block contenido_que_cambia %}
-<h1> Busqueda de Curso </h1>
+
+<h1> Búsqueda de Cursos </h1>
 <form action="/AppCoder/buscar/" method="GET">
     {% csrf_token %}
     <table>
@@ -16,4 +18,5 @@
     <input type="number" name="comision" id="comision">
     <input type="submit" value="Buscar">
 </form>
+
 {% endblock %}
