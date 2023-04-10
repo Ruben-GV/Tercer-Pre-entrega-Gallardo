@@ -1,14 +1,11 @@
-# Tercera Pre-entrega Gallardo Ruben
-
-##Inicio
 Para poder ver nuestra pagína web en el navegador, primero debemos de hacer los siguiente:
 
 - Escribir en la consola (2 veces) ----> *cd proyecto2*
 - Nuestra consola debe indicarnos que estamos dentro de ***proyecto2/proyecto2/***
 - Luego, escribimos ***python manage.py runserver*** para inciar el servidor.
-- Por último debemos acceder a *http://127.0.0.1:8000/AppCoder/ *
+- Por último debemos acceder a http://127.0.0.1:8000/AppCoder/
 
-##Inicio de la página
+##Página web
 
 A primera vista, veremos la página de inicio junto a un apartado para **Buscar un Curso** de nuestra base de datos.  El uso de este apartado lo dejaremos para el final, ya que debemos registrar Cursos en nuestra base de datos.
 
